@@ -1,0 +1,37 @@
+Buna ziua,
+
+ 
+
+Gasiti mai jos detaliile de logare pe platforma web service pentru testare.
+
+ 
+
+Va informam ca veti avea access la informatii pe mediul nostru de productie informatiile rezultate urmand a fi preluate din baza noastra de date fara a fi insa actualizate live.
+
+ 
+
+Site: http://rptsrv.icap.ro/ICAPReportsWebService.asmx
+
+ 
+
+User: cojocarudaniel@icloud.com
+
+ 
+
+Parola: !sup0rt#!
+
+ 
+
+ID-ul produsului ce urmeaza a fi testat: 1269
+
+ 
+
+Id-urile modulelor din componenta produsului: 125,128,39,131,66,70,71,21,22,47,127,38,55,27,28,64,112
+
+ 
+
+Va stam la dispozitie pentru orice informatie.
+
+ 
+
+O zi frumoasa!
